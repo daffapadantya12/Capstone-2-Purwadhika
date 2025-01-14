@@ -1,5 +1,11 @@
 # Capstone Module 2: Supermarket Customers Analysis
 
+Daffa Hanif Padantya - JCDS 2502
+
+Tableau Link :
+https://public.tableau.com/app/profile/daffa.padantya/viz/capstone_tableu/Dashboard1?publish=yes
+
+
 ## **1. Introduction**
 Supermarket ABC aims to understand customer behavior to enhance service quality and marketing strategies. This analysis explores customer segmentation, spending patterns, and targeted recommendations using the "Supermarket Customers" dataset.
 
