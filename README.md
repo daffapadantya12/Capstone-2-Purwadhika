@@ -65,16 +65,3 @@ Supermarket ABC aims to understand customer behavior to enhance service quality 
 3. **Customer Retention**:
    - Offer loyalty rewards to frequent shoppers.
 
----
-
-## **7. Files in This Repository**
-- **Notebook**: The detailed analysis and code (`Capstone_Module_2_Final.ipynb`).
-- **Cleaned Dataset**: Processed data for reproducibility.
-- **Visualizations**: Generated graphs and charts.
-
----
-
-## **8. Usage**
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
